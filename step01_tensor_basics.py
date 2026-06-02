@@ -17,6 +17,7 @@ import torch
 import numpy as np
 from utils import set_seed, print_tensor_info, get_device
 
+# 固定随机种子，让代码每次运行结果完全一样
 set_seed(42)
 
 print("=" * 60)
