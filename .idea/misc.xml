@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (pytorch学习)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (pytorch学习)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.12 (E:\Python312)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (E:\Python312)" project-jdk-type="Python SDK" />
+>>>>>>> 49da41d45821d38afc087c9feec1867e2459f2e0
 </project>
